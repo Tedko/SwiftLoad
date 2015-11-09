@@ -1,0 +1,9 @@
+platform :ios, '8.4'
+
+
+use_frameworks!
+pod 'MDCSwipeToChoose'
+pod 'SnapKit'
+pod 'Parse'
+pod 'ParseUI'
+#pod 'AlamofireImage'

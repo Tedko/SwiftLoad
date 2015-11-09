@@ -1,0 +1,24 @@
+PODS:
+  - Bolts/Tasks (1.4.0)
+  - MDCSwipeToChoose (0.2.3)
+  - Parse (1.9.1):
+    - Bolts/Tasks (>= 1.4.0)
+  - ParseUI (1.1.6):
+    - Bolts/Tasks (~> 1.2)
+    - Parse (~> 1.8)
+  - SnapKit (0.17.0)
+
+DEPENDENCIES:
+  - MDCSwipeToChoose
+  - Parse
+  - ParseUI
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Bolts: 0e9bce58b9b9f5e8a7a4d47b16d2fabec289072b
+  MDCSwipeToChoose: 56239d98b4558c66e7c3c9069482befd26092270
+  Parse: 54a965c8c19a6dde90284ab654dbcc77ef8c001b
+  ParseUI: 8a22e448c03f825203d8c379c80523517f68baa3
+  SnapKit: 49fd7b1b3ff58ab4064004036b8afcfddbd3a4bd
+
+COCOAPODS: 0.39.0
